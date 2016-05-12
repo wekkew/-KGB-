@@ -36,15 +36,20 @@ li a {
       display: block;
       text-align: center;
       padding: 14px 16px;
-      color: white;
+      color: gold;
       text-decoration: none;
 }
 li a:hover:not(.active) {
-    background-color: black;
+    background-color: gold;
+    color: #1c542d;
 }
 li:last-child {
   float: right;
   border-left: 2px solid black;
+}
+li:first-child a:hover:not(.active) {
+  background-color: #1c542d;
+  color: gold;
 }
 li:first-child a {
   margin-left: 1px;
