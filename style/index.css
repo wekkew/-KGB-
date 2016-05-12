@@ -1,0 +1,18 @@
+body {
+  margin: 5;
+  margin-bottom: auto;
+
+  background-image:url("img/uk-amb.jpg");
+  color: #1c542d;
+  text-align: justify;
+}
+body header {
+  float: top;
+  text-align: center;
+  background-color: #EDFF21;
+  color: #00BB2D;
+
+}
+body h1 {
+    color: #edff21;
+}
