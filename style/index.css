@@ -1,7 +1,7 @@
 body {
   margin: 0;
   margin-bottom: auto;
-  background-image:url("../img/uk-amb.jpg"); /*../ feljebb ugrik a konyvtarstrukturaban*/
+  background-image:url("../img/uk-amb.jpg"); 
 
   text-align: justify;
 }
@@ -9,6 +9,9 @@ header {
   color: white;
   float: top;
   text-align: center;
+}
+#cegnev {
+  text-style: hidden;
 }
 h1 {
     color: black;
